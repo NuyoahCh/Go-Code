@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "commentTranslate.source": "Copilot",
+    "commentTranslate.multiLineMerge": false
 }
